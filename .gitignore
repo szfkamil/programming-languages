@@ -1,0 +1,13 @@
+# Pamięć podręczna i skompilowane pliki Pythona
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Środowiska wirtualne (warto to mieć na wszelki wypadek - moje środowisko jest w zupełnie innym miejscu)
+.venv/
+venv/
+env/
+ENV/
+
+# Pliki konfiguracyjne edytora VSCode
+.vscode/
