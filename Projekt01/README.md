@@ -1,0 +1,1 @@
+Rozwiązanie na platformie Exercism.
