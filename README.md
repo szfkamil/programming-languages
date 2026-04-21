@@ -6,5 +6,3 @@
 
 **Nazwa przedmiotu:** Języki programowania
 
-## Informacje dodatkowe
-Zgodnie z wytycznymi, rozwiązanie Projektu 1 znajduje się na platformie Exercism.
